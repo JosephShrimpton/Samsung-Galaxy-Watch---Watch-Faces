@@ -7,7 +7,9 @@ A collection of custom Samsung Galaxy Watch faces built with Samsung Watch Face 
 ## Watch Faces
 
 ### A Perfectly Useless Afternoon
-![A Perfectly Useless Afternoon](Previews/A Perfectly Useless Afternoon.png)
+
+![A Perfectly Useless Afternoon](Previews/A%20Perfectly%20Useless%20Afternoon.png)
+
 A watch face based on the Mr Jones Watches design of the same name, created by Belgian illustrator Kristof Devos. The original watch features an illustrated pool scene where a figure floating on a rubber ring indicates the hours with their outstretched leg, and a small duck marks the minutes. This watch face takes its name and spirit from a quote by Chinese philosopher Lin Yutang — "If you can spend a perfectly useless afternoon in a perfectly useless manner, you have learnt how to live" — and translates that contemplative aesthetic into a digital face for the Galaxy Watch 6 Classic.
 
 ---
