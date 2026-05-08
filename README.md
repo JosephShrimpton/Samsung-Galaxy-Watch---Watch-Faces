@@ -54,8 +54,13 @@ These watch faces are built using **Samsung Watch Face Studio** and are compatib
 - Samsung Galaxy Watch 5 series
 - Samsung Galaxy Watch 6 series
 - Samsung Galaxy Watch 6 Classic
+- Samsung Galaxy Watch 7
+- Samsung Galaxy Watch Ultra (2024)
+- Samsung Galaxy Watch 8 series
 
 They are **not compatible** with non-Samsung Wear OS devices such as Google Pixel Watch or Fossil watches.
+
+> Compatibility on devices beyond the Galaxy Watch 6 Classic has not been personally tested. Results may vary on newer models.
 
 ---
 
