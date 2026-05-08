@@ -15,21 +15,33 @@ A watch face based on the Mr Jones Watches design of the same name, created by B
 ---
 
 ### GTA IV Mini Map
+
+![GTA IV Mini Map](Previews/GTAIV%20Mini%20Map.png)
+
 A watch face recreating the iconic Liberty City mini map from Grand Theft Auto IV. Features the original map texture as the dial, GTA HUD-style icons as hour markers, and circular progress bars tracking battery and step count in the style of the in-game UI.
 
 ---
 
 ### Seiko Willard
+
+![Seiko Willard](Previews/Seiko%20Willard.png)
+
 A recreation of the Seiko 6105-8110 "Willard" dive watch dial — the watch famously worn by Captain Willard in Apocalypse Now. Features applied-style lume indices, broad arrow hands with cream lume fill, and a white date window at 3 o'clock.
 
 ---
 
 ### TTT#1 Seoul Olive
+
+![TTT#1 Seoul Olive](Previews/TTT.png)
+
 A watch face inspired by the TTT#1 Hidden Time Watch — a collaboration between Anicorn and Seoul-based designer Jiwoong Jung. The original watch uses a conic gradient dial as an optical illusion, where the dark end of the rotating gradient reveals white hour numerals printed on the glass above as it passes beneath them, hiding the passing of time. This watch face recreates that sweeping olive-to-white gradient aesthetic for the Galaxy Watch 6 Classic's AMOLED display.
 
 ---
 
 ### Timex Q
+
+![Timex Q](Previews/Timex%20Q.png)
+
 A recreation of the Q Timex GMT reissue dial — the Pepsi bezel colourway with its classic navy/red split, round lume dot indices, day-date complication, and gilt hands.
 
 ---
